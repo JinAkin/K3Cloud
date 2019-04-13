@@ -1,0 +1,146 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2048
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hands.K3.SCM.App.Core", "App\JN.K3.Seeed.App.Core\Hands.K3.SCM.App.Core.csproj", "{A3A422E9-1368-4914-B0C5-044B00A9C624}"
+	ProjectSection(ProjectDependencies) = postProject
+		{743E0113-1B65-4FB0-BEF1-EC97AAD83D4F} = {743E0113-1B65-4FB0-BEF1-EC97AAD83D4F}
+		{FC2E0077-4E9C-4DAF-B96A-E2323E35A523} = {FC2E0077-4E9C-4DAF-B96A-E2323E35A523}
+		{7F67D8F6-9ECB-4021-9EE9-ABF4C61ACFBC} = {7F67D8F6-9ECB-4021-9EE9-ABF4C61ACFBC}
+		{12209BFA-A545-44A2-A802-5369FE5E18AA} = {12209BFA-A545-44A2-A802-5369FE5E18AA}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hands.K3.SCM.App.ServicePlugIn", "Hands.K3.SCM.App.ServicePlugIn\Hands.K3.SCM.App.ServicePlugIn.csproj", "{400C324B-9B60-4A2F-B8CE-4EF47A9D0E68}"
+	ProjectSection(ProjectDependencies) = postProject
+		{3A3ECC3B-3F77-4755-9215-6738DBAD8382} = {3A3ECC3B-3F77-4755-9215-6738DBAD8382}
+		{FC2E0077-4E9C-4DAF-B96A-E2323E35A523} = {FC2E0077-4E9C-4DAF-B96A-E2323E35A523}
+		{7F67D8F6-9ECB-4021-9EE9-ABF4C61ACFBC} = {7F67D8F6-9ECB-4021-9EE9-ABF4C61ACFBC}
+		{12209BFA-A545-44A2-A802-5369FE5E18AA} = {12209BFA-A545-44A2-A802-5369FE5E18AA}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hands.K3.SCM.APP.DynamicFormPlugIn", "Hands.K3.SCM.APP.DynamicFormPlugIn\Hands.K3.SCM.APP.DynamicFormPlugIn.csproj", "{3A3ECC3B-3F77-4755-9215-6738DBAD8382}"
+	ProjectSection(ProjectDependencies) = postProject
+		{FC2E0077-4E9C-4DAF-B96A-E2323E35A523} = {FC2E0077-4E9C-4DAF-B96A-E2323E35A523}
+		{E947AEAA-4802-47DB-9CA6-6C030C65726B} = {E947AEAA-4802-47DB-9CA6-6C030C65726B}
+		{7F67D8F6-9ECB-4021-9EE9-ABF4C61ACFBC} = {7F67D8F6-9ECB-4021-9EE9-ABF4C61ACFBC}
+		{12209BFA-A545-44A2-A802-5369FE5E18AA} = {12209BFA-A545-44A2-A802-5369FE5E18AA}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hands.K3.SCM.APP.WebService", "Hands.K3.SCM.APP.WebService\Hands.K3.SCM.APP.WebService.csproj", "{E947AEAA-4802-47DB-9CA6-6C030C65726B}"
+	ProjectSection(ProjectDependencies) = postProject
+		{FC2E0077-4E9C-4DAF-B96A-E2323E35A523} = {FC2E0077-4E9C-4DAF-B96A-E2323E35A523}
+		{7F67D8F6-9ECB-4021-9EE9-ABF4C61ACFBC} = {7F67D8F6-9ECB-4021-9EE9-ABF4C61ACFBC}
+		{12209BFA-A545-44A2-A802-5369FE5E18AA} = {12209BFA-A545-44A2-A802-5369FE5E18AA}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hands.K3.SCM.APP.Utils", "Hands.K3.SCM.APP.Utils\Hands.K3.SCM.APP.Utils.csproj", "{FC2E0077-4E9C-4DAF-B96A-E2323E35A523}"
+	ProjectSection(ProjectDependencies) = postProject
+		{7F67D8F6-9ECB-4021-9EE9-ABF4C61ACFBC} = {7F67D8F6-9ECB-4021-9EE9-ABF4C61ACFBC}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hands.K3.SCM.APP.Entity", "Hands.K3.SCM.APP.Entity\Hands.K3.SCM.APP.Entity.csproj", "{7F67D8F6-9ECB-4021-9EE9-ABF4C61ACFBC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hands.K3.SCM.App.Synchro.Utils", "Hands.K3.SCM.App.Synchro.Utils\Hands.K3.SCM.App.Synchro.Utils.csproj", "{12209BFA-A545-44A2-A802-5369FE5E18AA}"
+	ProjectSection(ProjectDependencies) = postProject
+		{743E0113-1B65-4FB0-BEF1-EC97AAD83D4F} = {743E0113-1B65-4FB0-BEF1-EC97AAD83D4F}
+		{FC2E0077-4E9C-4DAF-B96A-E2323E35A523} = {FC2E0077-4E9C-4DAF-B96A-E2323E35A523}
+		{7F67D8F6-9ECB-4021-9EE9-ABF4C61ACFBC} = {7F67D8F6-9ECB-4021-9EE9-ABF4C61ACFBC}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hands.K3.SCM.App.Synchro.Base", "Hands.K3.SCM.App.Synchro.Base\Hands.K3.SCM.App.Synchro.Base.csproj", "{743E0113-1B65-4FB0-BEF1-EC97AAD83D4F}"
+	ProjectSection(ProjectDependencies) = postProject
+		{FC2E0077-4E9C-4DAF-B96A-E2323E35A523} = {FC2E0077-4E9C-4DAF-B96A-E2323E35A523}
+		{7F67D8F6-9ECB-4021-9EE9-ABF4C61ACFBC} = {7F67D8F6-9ECB-4021-9EE9-ABF4C61ACFBC}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hands.K3.SCM.App.Synchro.Task", "Hands.K3.SCM.App.Synchro.Task\Hands.K3.SCM.App.Synchro.Task.csproj", "{AB328183-18CF-4068-A06B-B1FDC25563D9}"
+	ProjectSection(ProjectDependencies) = postProject
+		{FC2E0077-4E9C-4DAF-B96A-E2323E35A523} = {FC2E0077-4E9C-4DAF-B96A-E2323E35A523}
+		{7F67D8F6-9ECB-4021-9EE9-ABF4C61ACFBC} = {7F67D8F6-9ECB-4021-9EE9-ABF4C61ACFBC}
+		{12209BFA-A545-44A2-A802-5369FE5E18AA} = {12209BFA-A545-44A2-A802-5369FE5E18AA}
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A3A422E9-1368-4914-B0C5-044B00A9C624}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3A422E9-1368-4914-B0C5-044B00A9C624}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3A422E9-1368-4914-B0C5-044B00A9C624}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3A422E9-1368-4914-B0C5-044B00A9C624}.Release|Any CPU.Build.0 = Release|Any CPU
+		{400C324B-9B60-4A2F-B8CE-4EF47A9D0E68}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{400C324B-9B60-4A2F-B8CE-4EF47A9D0E68}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{400C324B-9B60-4A2F-B8CE-4EF47A9D0E68}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{400C324B-9B60-4A2F-B8CE-4EF47A9D0E68}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3A3ECC3B-3F77-4755-9215-6738DBAD8382}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A3ECC3B-3F77-4755-9215-6738DBAD8382}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A3ECC3B-3F77-4755-9215-6738DBAD8382}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A3ECC3B-3F77-4755-9215-6738DBAD8382}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E947AEAA-4802-47DB-9CA6-6C030C65726B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E947AEAA-4802-47DB-9CA6-6C030C65726B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E947AEAA-4802-47DB-9CA6-6C030C65726B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E947AEAA-4802-47DB-9CA6-6C030C65726B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC2E0077-4E9C-4DAF-B96A-E2323E35A523}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC2E0077-4E9C-4DAF-B96A-E2323E35A523}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC2E0077-4E9C-4DAF-B96A-E2323E35A523}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC2E0077-4E9C-4DAF-B96A-E2323E35A523}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7F67D8F6-9ECB-4021-9EE9-ABF4C61ACFBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F67D8F6-9ECB-4021-9EE9-ABF4C61ACFBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F67D8F6-9ECB-4021-9EE9-ABF4C61ACFBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F67D8F6-9ECB-4021-9EE9-ABF4C61ACFBC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{12209BFA-A545-44A2-A802-5369FE5E18AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12209BFA-A545-44A2-A802-5369FE5E18AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12209BFA-A545-44A2-A802-5369FE5E18AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12209BFA-A545-44A2-A802-5369FE5E18AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{743E0113-1B65-4FB0-BEF1-EC97AAD83D4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{743E0113-1B65-4FB0-BEF1-EC97AAD83D4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{743E0113-1B65-4FB0-BEF1-EC97AAD83D4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{743E0113-1B65-4FB0-BEF1-EC97AAD83D4F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AB328183-18CF-4068-A06B-B1FDC25563D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB328183-18CF-4068-A06B-B1FDC25563D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB328183-18CF-4068-A06B-B1FDC25563D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB328183-18CF-4068-A06B-B1FDC25563D9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {881A7007-C858-4886-B4EB-9B08A90C8D41}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 10
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = http://10.2.0.151:8080/tfs/defaultcollection
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = Hands.K3.SCM.APP.DynamicFormPlugIn\\Hands.K3.SCM.APP.DynamicFormPlugIn.csproj
+		SccProjectName1 = Hands.K3.SCM.APP.DynamicFormPlugIn
+		SccLocalPath1 = Hands.K3.SCM.APP.DynamicFormPlugIn
+		SccProjectUniqueName2 = Hands.K3.SCM.APP.Entity\\Hands.K3.SCM.APP.Entity.csproj
+		SccProjectName2 = Hands.K3.SCM.APP.Entity
+		SccLocalPath2 = Hands.K3.SCM.APP.Entity
+		SccProjectUniqueName3 = Hands.K3.SCM.App.ServicePlugIn\\Hands.K3.SCM.App.ServicePlugIn.csproj
+		SccProjectName3 = Hands.K3.SCM.App.ServicePlugIn
+		SccLocalPath3 = Hands.K3.SCM.App.ServicePlugIn
+		SccProjectUniqueName4 = Hands.K3.SCM.APP.Utils\\Hands.K3.SCM.APP.Utils.csproj
+		SccProjectName4 = Hands.K3.SCM.APP.Utils
+		SccLocalPath4 = Hands.K3.SCM.APP.Utils
+		SccProjectUniqueName5 = Hands.K3.SCM.APP.WebService\\Hands.K3.SCM.APP.WebService.csproj
+		SccProjectName5 = Hands.K3.SCM.APP.WebService
+		SccLocalPath5 = Hands.K3.SCM.APP.WebService
+		SccProjectUniqueName6 = App\\JN.K3.Seeed.App.Core\\Hands.K3.SCM.App.Core.csproj
+		SccProjectName6 = App/JN.K3.Seeed.App.Core
+		SccLocalPath6 = App\\JN.K3.Seeed.App.Core
+		SccProjectUniqueName7 = Hands.K3.SCM.App.Synchro.Utils\\Hands.K3.SCM.App.Synchro.Utils.csproj
+		SccProjectName7 = Hands.K3.SCM.App.Synchro.Utils
+		SccLocalPath7 = Hands.K3.SCM.App.Synchro.Utils
+		SccProjectUniqueName8 = Hands.K3.SCM.App.Synchro.Base\\Hands.K3.SCM.App.Synchro.Base.csproj
+		SccProjectName8 = Hands.K3.SCM.App.Synchro.Base
+		SccLocalPath8 = Hands.K3.SCM.App.Synchro.Base
+		SccProjectUniqueName9 = Hands.K3.SCM.App.Synchro.Task\\Hands.K3.SCM.App.Synchro.Task.csproj
+		SccProjectName9 = Hands.K3.SCM.App.Synchro.Task
+		SccLocalPath9 = Hands.K3.SCM.App.Synchro.Task
+	EndGlobalSection
+EndGlobal

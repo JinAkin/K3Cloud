@@ -1,0 +1,18 @@
+H:\Program Files (x86)\Kingdee\K3Cloud\WebSite\bin\Hands.K3.SCM.APP.Entity.dll
+H:\Program Files (x86)\Kingdee\K3Cloud\WebSite\bin\Hands.K3.SCM.APP.Entity.pdb
+G:\Users\Administrator\Source\Workspaces\Hands.K3Cloud\Hands.K3Cloud\Hands.K3.SCM.APP.Entity\obj\Debug\Hands.K3.SCM.APP.Entity.csproj.CoreCompileInputs.cache
+G:\Users\Administrator\Source\Workspaces\Hands.K3Cloud\Hands.K3Cloud\Hands.K3.SCM.APP.Entity\obj\Debug\Hands.K3.SCM.APP.Entity.csproj.CopyComplete
+G:\Users\Administrator\Source\Workspaces\Hands.K3Cloud\Hands.K3Cloud\Hands.K3.SCM.APP.Entity\obj\Debug\Hands.K3.SCM.APP.Entity.dll
+G:\Users\Administrator\Source\Workspaces\Hands.K3Cloud\Hands.K3Cloud\Hands.K3.SCM.APP.Entity\obj\Debug\Hands.K3.SCM.APP.Entity.pdb
+G:\Users\Administrator\Source\Workspaces\Hands.K3Cloud\Hands.K3Cloud\Hands.K3.SCM.APP.Entity\obj\Debug\Hands.K3.SCM.APP.Entity.csprojAssemblyReference.cache
+D:\handsProjects\Hands.K3Cloud\Hands.K3Cloud\Hands.K3.SCM.APP.Entity\obj\Debug\Hands.K3.SCM.APP.Entity.csproj.CoreCompileInputs.cache
+D:\handsProjects\Hands.K3Cloud\Hands.K3Cloud\Hands.K3.SCM.APP.Entity\obj\Debug\Hands.K3.SCM.APP.Entity.dll
+D:\handsProjects\Hands.K3Cloud\Hands.K3Cloud\Hands.K3.SCM.APP.Entity\obj\Debug\Hands.K3.SCM.APP.Entity.pdb
+D:\handsProjects\Hands.K3Cloud\Hands.K3Cloud\Hands.K3.SCM.APP.Entity\obj\Debug\Hands.K3.SCM.APP.Entity.csproj.CopyComplete
+D:\Program Files (x86)\Kingdee\K3Cloud\WebSite\bin\Hands.K3.SCM.APP.Entity.dll
+D:\Program Files (x86)\Kingdee\K3Cloud\WebSite\bin\Hands.K3.SCM.APP.Entity.pdb
+D:\Hands.K3Cloud\Hands.K3Cloud\Hands.K3.SCM.APP.Entity\obj\Debug\Hands.K3.SCM.APP.Entity.csproj.CoreCompileInputs.cache
+D:\Hands.K3Cloud\Hands.K3Cloud\Hands.K3.SCM.APP.Entity\obj\Debug\Hands.K3.SCM.APP.Entity.csproj.CopyComplete
+D:\Hands.K3Cloud\Hands.K3Cloud\Hands.K3.SCM.APP.Entity\obj\Debug\Hands.K3.SCM.APP.Entity.dll
+D:\Hands.K3Cloud\Hands.K3Cloud\Hands.K3.SCM.APP.Entity\obj\Debug\Hands.K3.SCM.APP.Entity.pdb
+D:\Hands.K3Cloud\Hands.K3Cloud\Hands.K3.SCM.APP.Entity\obj\Debug\Hands.K3.SCM.APP.Entity.csprojAssemblyReference.cache

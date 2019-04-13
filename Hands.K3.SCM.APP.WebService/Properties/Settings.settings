@@ -1,0 +1,12 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Hands.K3.SCM.APP.WebService.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="TrackWebServiceClient_TrackServiceWebReference_TrackService" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">https://wsbeta.fedex.com:443/web-services/track</Value>
+    </Setting>
+    <Setting Name="TrackNotificationWebServiceClient_TrackNotificationWebReference_TrackService" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://wsbeta.fedex.com:443/web-services/track</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:soapenc12="http://www.w3.org/2003/05/soap-encoding" xmlns:soap12="http://www.w3.org/2003/05/soap-envelope" xmlns:tns="http://webservice.product.gordian.com" xmlns:soapenc11="http://schemas.xmlsoap.org/soap/encoding/" xmlns:wsdlsoap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:soap11="http://schemas.xmlsoap.org/soap/envelope/" targetNamespace="http://webservice.product.gordian.com" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <xsd:schema attributeFormDefault="qualified" elementFormDefault="qualified" targetNamespace="http://webservice.product.gordian.com">
+      <xsd:element name="queryOrderDetailsByQcCode">
+        <xsd:complexType>
+          <xsd:sequence>
+            <xsd:element minOccurs="1" maxOccurs="1" name="in0" nillable="true" type="xsd:string" />
+            <xsd:element minOccurs="1" maxOccurs="1" name="in1" nillable="true" type="xsd:string" />
+            <xsd:element minOccurs="1" maxOccurs="1" name="in2" nillable="true" type="xsd:int" />
+            <xsd:element minOccurs="1" maxOccurs="1" name="in3" nillable="true" type="xsd:string" />
+            <xsd:element minOccurs="1" maxOccurs="1" name="in4" nillable="true" type="xsd:string" />
+          </xsd:sequence>
+        </xsd:complexType>
+      </xsd:element>
+      <xsd:element name="queryOrderDetailsByQcCodeResponse">
+        <xsd:complexType>
+          <xsd:sequence>
+            <xsd:element minOccurs="1" maxOccurs="1" name="out" nillable="true" type="xsd:string" />
+          </xsd:sequence>
+        </xsd:complexType>
+      </xsd:element>
+      <xsd:element name="queryOrderInfoById">
+        <xsd:complexType>
+          <xsd:sequence>
+            <xsd:element minOccurs="1" maxOccurs="1" name="in0" nillable="true" type="xsd:string" />
+            <xsd:element minOccurs="1" maxOccurs="1" name="in1" nillable="true" type="xsd:string" />
+            <xsd:element minOccurs="1" maxOccurs="1" name="in2" nillable="true" type="xsd:string" />
+            <xsd:element minOccurs="1" maxOccurs="1" name="in3" nillable="true" type="xsd:int" />
+          </xsd:sequence>
+        </xsd:complexType>
+      </xsd:element>
+      <xsd:element name="queryOrderInfoByIdResponse">
+        <xsd:complexType>
+          <xsd:sequence>
+            <xsd:element minOccurs="1" maxOccurs="1" name="out" nillable="true" type="xsd:string" />
+          </xsd:sequence>
+        </xsd:complexType>
+      </xsd:element>
+      <xsd:element name="createCustomerOrder">
+        <xsd:complexType>
+          <xsd:sequence>
+            <xsd:element minOccurs="1" maxOccurs="1" name="in0" nillable="true" type="xsd:string" />
+            <xsd:element minOccurs="1" maxOccurs="1" name="in1" nillable="true" type="xsd:string" />
+            <xsd:element minOccurs="1" maxOccurs="1" name="in2" nillable="true" type="xsd:string" />
+            <xsd:element minOccurs="1" maxOccurs="1" name="in3" nillable="true" type="xsd:string" />
+            <xsd:element minOccurs="1" maxOccurs="1" name="in4" nillable="true" type="xsd:string" />
+          </xsd:sequence>
+        </xsd:complexType>
+      </xsd:element>
+      <xsd:element name="createCustomerOrderResponse">
+        <xsd:complexType>
+          <xsd:sequence>
+            <xsd:element minOccurs="1" maxOccurs="1" name="out" nillable="true" type="xsd:string" />
+          </xsd:sequence>
+        </xsd:complexType>
+      </xsd:element>
+      <xsd:element name="calculateOrderPrice">
+        <xsd:complexType>
+          <xsd:sequence>
+            <xsd:element minOccurs="1" maxOccurs="1" name="in0" nillable="true" type="xsd:string" />
+            <xsd:element minOccurs="1" maxOccurs="1" name="in1" nillable="true" type="xsd:string" />
+            <xsd:element minOccurs="1" maxOccurs="1" name="in2" nillable="true" type="xsd:string" />
+          </xsd:sequence>
+        </xsd:complexType>
+      </xsd:element>
+      <xsd:element name="calculateOrderPriceResponse">
+        <xsd:complexType>
+          <xsd:sequence>
+            <xsd:element minOccurs="1" maxOccurs="1" name="out" nillable="true" type="xsd:string" />
+          </xsd:sequence>
+        </xsd:complexType>
+      </xsd:element>
+      <xsd:element name="createSteelmeshOrder">
+        <xsd:complexType>
+          <xsd:sequence>
+            <xsd:element minOccurs="1" maxOccurs="1" name="in0" nillable="true" type="xsd:string" />
+            <xsd:element minOccurs="1" maxOccurs="1" name="in1" nillable="true" type="xsd:string" />
+            <xsd:element minOccurs="1" maxOccurs="1" name="in2" nillable="true" type="xsd:string" />
+            <xsd:element minOccurs="1" maxOccurs="1" name="in3" nillable="true" type="xsd:string" />
+            <xsd:element minOccurs="1" maxOccurs="1" name="in4" nillable="true" type="xsd:string" />
+          </xsd:sequence>
+        </xsd:complexType>
+      </xsd:element>
+      <xsd:element name="createSteelmeshOrderResponse">
+        <xsd:complexType>
+          <xsd:sequence>
+            <xsd:element minOccurs="1" maxOccurs="1" name="out" nillable="true" type="xsd:string" />
+          </xsd:sequence>
+        </xsd:complexType>
+      </xsd:element>
+      <xsd:element name="queryWipProduceSchedule">
+        <xsd:complexType>
+          <xsd:sequence>
+            <xsd:element minOccurs="1" maxOccurs="1" name="in0" nillable="true" type="xsd:string" />
+            <xsd:element minOccurs="1" maxOccurs="1" name="in1" nillable="true" type="xsd:string" />
+            <xsd:element minOccurs="1" maxOccurs="1" name="in2" nillable="true" type="xsd:int" />
+            <xsd:element minOccurs="1" maxOccurs="1" name="in3" nillable="true" type="xsd:string" />
+          </xsd:sequence>
+        </xsd:complexType>
+      </xsd:element>
+      <xsd:element name="queryWipProduceScheduleResponse">
+        <xsd:complexType>
+          <xsd:sequence>
+            <xsd:element minOccurs="1" maxOccurs="1" name="out" nillable="true" type="xsd:string" />
+          </xsd:sequence>
+        </xsd:complexType>
+      </xsd:element>
+      <xsd:element name="createBacktoSingleOrder">
+        <xsd:complexType>
+          <xsd:sequence>
+            <xsd:element minOccurs="1" maxOccurs="1" name="in0" nillable="true" type="xsd:string" />
+            <xsd:element minOccurs="1" maxOccurs="1" name="in1" nillable="true" type="xsd:string" />
+            <xsd:element minOccurs="1" maxOccurs="1" name="in2" nillable="true" type="xsd:string" />
+            <xsd:element minOccurs="1" maxOccurs="1" name="in3" nillable="true" type="xsd:string" />
+            <xsd:element minOccurs="1" maxOccurs="1" name="in4" nillable="true" type="xsd:string" />
+          </xsd:sequence>
+        </xsd:complexType>
+      </xsd:element>
+      <xsd:element name="createBacktoSingleOrderResponse">
+        <xsd:complexType>
+          <xsd:sequence>
+            <xsd:element minOccurs="1" maxOccurs="1" name="out" nillable="true" type="xsd:string" />
+          </xsd:sequence>
+        </xsd:complexType>
+      </xsd:element>
+    </xsd:schema>
+  </wsdl:types>
+  <wsdl:message name="createCustomerOrderResponse">
+    <wsdl:part name="parameters" element="tns:createCustomerOrderResponse" />
+  </wsdl:message>
+  <wsdl:message name="createBacktoSingleOrderRequest">
+    <wsdl:part name="parameters" element="tns:createBacktoSingleOrder" />
+  </wsdl:message>
+  <wsdl:message name="createSteelmeshOrderRequest">
+    <wsdl:part name="parameters" element="tns:createSteelmeshOrder" />
+  </wsdl:message>
+  <wsdl:message name="queryWipProduceScheduleResponse">
+    <wsdl:part name="parameters" element="tns:queryWipProduceScheduleResponse" />
+  </wsdl:message>
+  <wsdl:message name="calculateOrderPriceRequest">
+    <wsdl:part name="parameters" element="tns:calculateOrderPrice" />
+  </wsdl:message>
+  <wsdl:message name="createSteelmeshOrderResponse">
+    <wsdl:part name="parameters" element="tns:createSteelmeshOrderResponse" />
+  </wsdl:message>
+  <wsdl:message name="createCustomerOrderRequest">
+    <wsdl:part name="parameters" element="tns:createCustomerOrder" />
+  </wsdl:message>
+  <wsdl:message name="queryOrderInfoByIdRequest">
+    <wsdl:part name="parameters" element="tns:queryOrderInfoById" />
+  </wsdl:message>
+  <wsdl:message name="queryOrderDetailsByQcCodeResponse">
+    <wsdl:part name="parameters" element="tns:queryOrderDetailsByQcCodeResponse" />
+  </wsdl:message>
+  <wsdl:message name="queryWipProduceScheduleRequest">
+    <wsdl:part name="parameters" element="tns:queryWipProduceSchedule" />
+  </wsdl:message>
+  <wsdl:message name="calculateOrderPriceResponse">
+    <wsdl:part name="parameters" element="tns:calculateOrderPriceResponse" />
+  </wsdl:message>
+  <wsdl:message name="queryOrderInfoByIdResponse">
+    <wsdl:part name="parameters" element="tns:queryOrderInfoByIdResponse" />
+  </wsdl:message>
+  <wsdl:message name="queryOrderDetailsByQcCodeRequest">
+    <wsdl:part name="parameters" element="tns:queryOrderDetailsByQcCode" />
+  </wsdl:message>
+  <wsdl:message name="createBacktoSingleOrderResponse">
+    <wsdl:part name="parameters" element="tns:createBacktoSingleOrderResponse" />
+  </wsdl:message>
+  <wsdl:portType name="CustomerOpenServicePortType">
+    <wsdl:operation name="queryOrderDetailsByQcCode">
+      <wsdl:input name="queryOrderDetailsByQcCodeRequest" message="tns:queryOrderDetailsByQcCodeRequest" />
+      <wsdl:output name="queryOrderDetailsByQcCodeResponse" message="tns:queryOrderDetailsByQcCodeResponse" />
+    </wsdl:operation>
+    <wsdl:operation name="queryOrderInfoById">
+      <wsdl:input name="queryOrderInfoByIdRequest" message="tns:queryOrderInfoByIdRequest" />
+      <wsdl:output name="queryOrderInfoByIdResponse" message="tns:queryOrderInfoByIdResponse" />
+    </wsdl:operation>
+    <wsdl:operation name="createCustomerOrder">
+      <wsdl:input name="createCustomerOrderRequest" message="tns:createCustomerOrderRequest" />
+      <wsdl:output name="createCustomerOrderResponse" message="tns:createCustomerOrderResponse" />
+    </wsdl:operation>
+    <wsdl:operation name="calculateOrderPrice">
+      <wsdl:input name="calculateOrderPriceRequest" message="tns:calculateOrderPriceRequest" />
+      <wsdl:output name="calculateOrderPriceResponse" message="tns:calculateOrderPriceResponse" />
+    </wsdl:operation>
+    <wsdl:operation name="createSteelmeshOrder">
+      <wsdl:input name="createSteelmeshOrderRequest" message="tns:createSteelmeshOrderRequest" />
+      <wsdl:output name="createSteelmeshOrderResponse" message="tns:createSteelmeshOrderResponse" />
+    </wsdl:operation>
+    <wsdl:operation name="queryWipProduceSchedule">
+      <wsdl:input name="queryWipProduceScheduleRequest" message="tns:queryWipProduceScheduleRequest" />
+      <wsdl:output name="queryWipProduceScheduleResponse" message="tns:queryWipProduceScheduleResponse" />
+    </wsdl:operation>
+    <wsdl:operation name="createBacktoSingleOrder">
+      <wsdl:input name="createBacktoSingleOrderRequest" message="tns:createBacktoSingleOrderRequest" />
+      <wsdl:output name="createBacktoSingleOrderResponse" message="tns:createBacktoSingleOrderResponse" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="CustomerOpenServiceHttpBinding" type="tns:CustomerOpenServicePortType">
+    <wsdlsoap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="queryOrderDetailsByQcCode">
+      <wsdlsoap:operation soapAction="" />
+      <wsdl:input name="queryOrderDetailsByQcCodeRequest">
+        <wsdlsoap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output name="queryOrderDetailsByQcCodeResponse">
+        <wsdlsoap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="queryOrderInfoById">
+      <wsdlsoap:operation soapAction="" />
+      <wsdl:input name="queryOrderInfoByIdRequest">
+        <wsdlsoap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output name="queryOrderInfoByIdResponse">
+        <wsdlsoap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="createCustomerOrder">
+      <wsdlsoap:operation soapAction="" />
+      <wsdl:input name="createCustomerOrderRequest">
+        <wsdlsoap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output name="createCustomerOrderResponse">
+        <wsdlsoap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="calculateOrderPrice">
+      <wsdlsoap:operation soapAction="" />
+      <wsdl:input name="calculateOrderPriceRequest">
+        <wsdlsoap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output name="calculateOrderPriceResponse">
+        <wsdlsoap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="createSteelmeshOrder">
+      <wsdlsoap:operation soapAction="" />
+      <wsdl:input name="createSteelmeshOrderRequest">
+        <wsdlsoap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output name="createSteelmeshOrderResponse">
+        <wsdlsoap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="queryWipProduceSchedule">
+      <wsdlsoap:operation soapAction="" />
+      <wsdl:input name="queryWipProduceScheduleRequest">
+        <wsdlsoap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output name="queryWipProduceScheduleResponse">
+        <wsdlsoap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="createBacktoSingleOrder">
+      <wsdlsoap:operation soapAction="" />
+      <wsdl:input name="createBacktoSingleOrderRequest">
+        <wsdlsoap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output name="createBacktoSingleOrderResponse">
+        <wsdlsoap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="CustomerOpenService">
+    <wsdl:port name="CustomerOpenServiceHttpPort" binding="tns:CustomerOpenServiceHttpBinding">
+      <wsdlsoap:address location="http://dx.sz-jlc.com/xfire/CustomerOpenService" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

@@ -1,0 +1,23 @@
+G:\Users\Administrator\Source\Workspaces\Hands.K3Cloud\Hands.K3Cloud\App\JN.K3.Seeed.App.Core\obj\Debug\Hands.K3.SCM.App.Core.csprojAssemblyReference.cache
+G:\Users\Administrator\Source\Workspaces\Hands.K3Cloud\Hands.K3Cloud\App\JN.K3.Seeed.App.Core\obj\Debug\Hands.K3.SCM.App.Core.csproj.CoreCompileInputs.cache
+H:\Program Files (x86)\Kingdee\K3Cloud\WebSite\bin\Hands.K3.SCM.App.Core.dll.config
+H:\Program Files (x86)\Kingdee\K3Cloud\WebSite\bin\Hands.K3.SCM.App.Core.dll
+H:\Program Files (x86)\Kingdee\K3Cloud\WebSite\bin\Hands.K3.SCM.App.Core.pdb
+H:\Program Files (x86)\Kingdee\K3Cloud\WebSite\bin\JN.K3.Seeed.App.Core.xml
+G:\Users\Administrator\Source\Workspaces\Hands.K3Cloud\Hands.K3Cloud\App\JN.K3.Seeed.App.Core\obj\Debug\Hands.K3.SCM.App.Core.csproj.CopyComplete
+G:\Users\Administrator\Source\Workspaces\Hands.K3Cloud\Hands.K3Cloud\App\JN.K3.Seeed.App.Core\obj\Debug\Hands.K3.SCM.App.Core.dll
+G:\Users\Administrator\Source\Workspaces\Hands.K3Cloud\Hands.K3Cloud\App\JN.K3.Seeed.App.Core\obj\Debug\Hands.K3.SCM.App.Core.pdb
+D:\handsProjects\Hands.K3Cloud\Hands.K3Cloud\App\JN.K3.Seeed.App.Core\obj\Debug\Hands.K3.SCM.App.Core.csprojAssemblyReference.cache
+D:\handsProjects\Hands.K3Cloud\Hands.K3Cloud\App\JN.K3.Seeed.App.Core\obj\Debug\Hands.K3.SCM.App.Core.csproj.CoreCompileInputs.cache
+D:\handsProjects\Hands.K3Cloud\Hands.K3Cloud\App\JN.K3.Seeed.App.Core\obj\Debug\Hands.K3.SCM.App.Core.dll
+D:\handsProjects\Hands.K3Cloud\Hands.K3Cloud\App\JN.K3.Seeed.App.Core\obj\Debug\Hands.K3.SCM.App.Core.pdb
+D:\handsProjects\Hands.K3Cloud\Hands.K3Cloud\App\JN.K3.Seeed.App.Core\obj\Debug\Hands.K3.SCM.App.Core.csproj.CopyComplete
+D:\Program Files (x86)\Kingdee\K3Cloud\WebSite\bin\Hands.K3.SCM.App.Core.dll.config
+D:\Program Files (x86)\Kingdee\K3Cloud\WebSite\bin\Hands.K3.SCM.App.Core.dll
+D:\Program Files (x86)\Kingdee\K3Cloud\WebSite\bin\Hands.K3.SCM.App.Core.pdb
+D:\Program Files (x86)\Kingdee\K3Cloud\WebSite\bin\JN.K3.Seeed.App.Core.xml
+D:\Hands.K3Cloud\Hands.K3Cloud\App\JN.K3.Seeed.App.Core\obj\Debug\Hands.K3.SCM.App.Core.csprojAssemblyReference.cache
+D:\Hands.K3Cloud\Hands.K3Cloud\App\JN.K3.Seeed.App.Core\obj\Debug\Hands.K3.SCM.App.Core.csproj.CoreCompileInputs.cache
+D:\Hands.K3Cloud\Hands.K3Cloud\App\JN.K3.Seeed.App.Core\obj\Debug\Hands.K3.SCM.App.Core.csproj.CopyComplete
+D:\Hands.K3Cloud\Hands.K3Cloud\App\JN.K3.Seeed.App.Core\obj\Debug\Hands.K3.SCM.App.Core.dll
+D:\Hands.K3Cloud\Hands.K3Cloud\App\JN.K3.Seeed.App.Core\obj\Debug\Hands.K3.SCM.App.Core.pdb

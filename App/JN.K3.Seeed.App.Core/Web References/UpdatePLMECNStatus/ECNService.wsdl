@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<definitions xmlns:wsp="http://www.w3.org/ns/ws-policy" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:wsam="http://www.w3.org/2007/05/addressing/metadata" xmlns:tns="http://seed.plm.com/ECNService" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:wsp1_2="http://schemas.xmlsoap.org/ws/2004/09/policy" xmlns:wsu="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-utility-1.0.xsd" name="ECNService" targetNamespace="http://seed.plm.com/ECNService" xmlns="http://schemas.xmlsoap.org/wsdl/">
+  <types>
+    <xsd:schema>
+      <xsd:import schemaLocation="http://192.168.1.36:80/Windchill/servlet/ECNService?xsd=1" namespace="http://seed.plm.com/ECNService" />
+    </xsd:schema>
+  </types>
+  <message name="erpFeedback">
+    <part name="parameters" element="tns:erpFeedback" />
+  </message>
+  <message name="erpFeedbackResponse">
+    <part name="parameters" element="tns:erpFeedbackResponse" />
+  </message>
+  <portType name="ECNService">
+    <operation name="erpFeedback">
+      <input wsam:Action="http://seed.plm.com/ECNService/ECNService/erpFeedbackRequest" message="tns:erpFeedback" />
+      <output wsam:Action="http://seed.plm.com/ECNService/ECNService/erpFeedbackResponse" message="tns:erpFeedbackResponse" />
+    </operation>
+  </portType>
+  <binding name="ECNSOAPPortBinding" type="tns:ECNService">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <operation name="erpFeedback">
+      <soap:operation soapAction="" />
+      <input>
+        <soap:body use="literal" />
+      </input>
+      <output>
+        <soap:body use="literal" />
+      </output>
+    </operation>
+  </binding>
+  <service name="ECNService">
+    <port name="ECNSOAPPort" binding="tns:ECNSOAPPortBinding">
+      <soap:address location="http://192.168.1.36:80/Windchill/servlet/ECNService" />
+    </port>
+  </service>
+</definitions>

@@ -1,0 +1,21 @@
+G:\Users\Administrator\Source\Workspaces\Hands.K3Cloud\Hands.K3Cloud\Hands.K3.SCM.APP.WebService\obj\Debug\Hands.K3.SCM.APP.WebService.csprojAssemblyReference.cache
+G:\Users\Administrator\Source\Workspaces\Hands.K3Cloud\Hands.K3Cloud\Hands.K3.SCM.APP.WebService\obj\Debug\Hands.K3.SCM.APP.WebService.csproj.CoreCompileInputs.cache
+H:\Program Files (x86)\Kingdee\K3Cloud\WebSite\bin\Hands.K3.SCM.APP.WebService.dll.config
+H:\Program Files (x86)\Kingdee\K3Cloud\WebSite\bin\Hands.K3.SCM.APP.WebService.dll
+H:\Program Files (x86)\Kingdee\K3Cloud\WebSite\bin\Hands.K3.SCM.APP.WebService.pdb
+G:\Users\Administrator\Source\Workspaces\Hands.K3Cloud\Hands.K3Cloud\Hands.K3.SCM.APP.WebService\obj\Debug\Hands.K3.SCM.APP.WebService.csproj.CopyComplete
+G:\Users\Administrator\Source\Workspaces\Hands.K3Cloud\Hands.K3Cloud\Hands.K3.SCM.APP.WebService\obj\Debug\Hands.K3.SCM.APP.WebService.dll
+G:\Users\Administrator\Source\Workspaces\Hands.K3Cloud\Hands.K3Cloud\Hands.K3.SCM.APP.WebService\obj\Debug\Hands.K3.SCM.APP.WebService.pdb
+D:\handsProjects\Hands.K3Cloud\Hands.K3Cloud\Hands.K3.SCM.APP.WebService\obj\Debug\Hands.K3.SCM.APP.WebService.csprojAssemblyReference.cache
+D:\handsProjects\Hands.K3Cloud\Hands.K3Cloud\Hands.K3.SCM.APP.WebService\obj\Debug\Hands.K3.SCM.APP.WebService.csproj.CoreCompileInputs.cache
+D:\handsProjects\Hands.K3Cloud\Hands.K3Cloud\Hands.K3.SCM.APP.WebService\obj\Debug\Hands.K3.SCM.APP.WebService.dll
+D:\handsProjects\Hands.K3Cloud\Hands.K3Cloud\Hands.K3.SCM.APP.WebService\obj\Debug\Hands.K3.SCM.APP.WebService.pdb
+D:\handsProjects\Hands.K3Cloud\Hands.K3Cloud\Hands.K3.SCM.APP.WebService\obj\Debug\Hands.K3.SCM.APP.WebService.csproj.CopyComplete
+D:\Program Files (x86)\Kingdee\K3Cloud\WebSite\bin\Hands.K3.SCM.APP.WebService.dll.config
+D:\Program Files (x86)\Kingdee\K3Cloud\WebSite\bin\Hands.K3.SCM.APP.WebService.dll
+D:\Program Files (x86)\Kingdee\K3Cloud\WebSite\bin\Hands.K3.SCM.APP.WebService.pdb
+D:\Hands.K3Cloud\Hands.K3Cloud\Hands.K3.SCM.APP.WebService\obj\Debug\Hands.K3.SCM.APP.WebService.csprojAssemblyReference.cache
+D:\Hands.K3Cloud\Hands.K3Cloud\Hands.K3.SCM.APP.WebService\obj\Debug\Hands.K3.SCM.APP.WebService.csproj.CoreCompileInputs.cache
+D:\Hands.K3Cloud\Hands.K3Cloud\Hands.K3.SCM.APP.WebService\obj\Debug\Hands.K3.SCM.APP.WebService.csproj.CopyComplete
+D:\Hands.K3Cloud\Hands.K3Cloud\Hands.K3.SCM.APP.WebService\obj\Debug\Hands.K3.SCM.APP.WebService.dll
+D:\Hands.K3Cloud\Hands.K3Cloud\Hands.K3.SCM.APP.WebService\obj\Debug\Hands.K3.SCM.APP.WebService.pdb

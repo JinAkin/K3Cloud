@@ -1,0 +1,21 @@
+G:\Users\Administrator\Source\Workspaces\Hands.K3Cloud\Hands.K3Cloud\Hands.K3.SCM.APP.DynamicFormPlugIn\obj\Debug\Hands.K3.SCM.APP.DynamicFormPlugIn.csprojAssemblyReference.cache
+G:\Users\Administrator\Source\Workspaces\Hands.K3Cloud\Hands.K3Cloud\Hands.K3.SCM.APP.DynamicFormPlugIn\obj\Debug\Hands.K3.SCM.APP.DynamicFormPlugIn.csproj.CoreCompileInputs.cache
+H:\Program Files (x86)\Kingdee\K3Cloud\WebSite\bin\Hands.K3.SCM.APP.DynamicFormPlugIn.dll
+H:\Program Files (x86)\Kingdee\K3Cloud\WebSite\bin\Hands.K3.SCM.APP.DynamicFormPlugIn.pdb
+G:\Users\Administrator\Source\Workspaces\Hands.K3Cloud\Hands.K3Cloud\Hands.K3.SCM.APP.DynamicFormPlugIn\obj\Debug\Hands.K3.SCM.APP.DynamicFormPlugIn.csproj.CopyComplete
+G:\Users\Administrator\Source\Workspaces\Hands.K3Cloud\Hands.K3Cloud\Hands.K3.SCM.APP.DynamicFormPlugIn\obj\Debug\Hands.K3.SCM.APP.DynamicFormPlugIn.dll
+G:\Users\Administrator\Source\Workspaces\Hands.K3Cloud\Hands.K3Cloud\Hands.K3.SCM.APP.DynamicFormPlugIn\obj\Debug\Hands.K3.SCM.APP.DynamicFormPlugIn.pdb
+H:\Program Files (x86)\Kingdee\K3Cloud\WebSite\bin\Hands.K3.SCM.APP.DynamicFormPlugIn.dll.config
+D:\handsProjects\Hands.K3Cloud\Hands.K3Cloud\Hands.K3.SCM.APP.DynamicFormPlugIn\obj\Debug\Hands.K3.SCM.APP.DynamicFormPlugIn.csprojAssemblyReference.cache
+D:\handsProjects\Hands.K3Cloud\Hands.K3Cloud\Hands.K3.SCM.APP.DynamicFormPlugIn\obj\Debug\Hands.K3.SCM.APP.DynamicFormPlugIn.csproj.CoreCompileInputs.cache
+D:\handsProjects\Hands.K3Cloud\Hands.K3Cloud\Hands.K3.SCM.APP.DynamicFormPlugIn\obj\Debug\Hands.K3.SCM.APP.DynamicFormPlugIn.dll
+D:\handsProjects\Hands.K3Cloud\Hands.K3Cloud\Hands.K3.SCM.APP.DynamicFormPlugIn\obj\Debug\Hands.K3.SCM.APP.DynamicFormPlugIn.pdb
+D:\handsProjects\Hands.K3Cloud\Hands.K3Cloud\Hands.K3.SCM.APP.DynamicFormPlugIn\obj\Debug\Hands.K3.SCM.APP.DynamicFormPlugIn.csproj.CopyComplete
+D:\Program Files (x86)\Kingdee\K3Cloud\WebSite\bin\Hands.K3.SCM.APP.DynamicFormPlugIn.dll.config
+D:\Program Files (x86)\Kingdee\K3Cloud\WebSite\bin\Hands.K3.SCM.APP.DynamicFormPlugIn.dll
+D:\Program Files (x86)\Kingdee\K3Cloud\WebSite\bin\Hands.K3.SCM.APP.DynamicFormPlugIn.pdb
+D:\Hands.K3Cloud\Hands.K3Cloud\Hands.K3.SCM.APP.DynamicFormPlugIn\obj\Debug\Hands.K3.SCM.APP.DynamicFormPlugIn.csprojAssemblyReference.cache
+D:\Hands.K3Cloud\Hands.K3Cloud\Hands.K3.SCM.APP.DynamicFormPlugIn\obj\Debug\Hands.K3.SCM.APP.DynamicFormPlugIn.csproj.CoreCompileInputs.cache
+D:\Hands.K3Cloud\Hands.K3Cloud\Hands.K3.SCM.APP.DynamicFormPlugIn\obj\Debug\Hands.K3.SCM.APP.DynamicFormPlugIn.csproj.CopyComplete
+D:\Hands.K3Cloud\Hands.K3Cloud\Hands.K3.SCM.APP.DynamicFormPlugIn\obj\Debug\Hands.K3.SCM.APP.DynamicFormPlugIn.dll
+D:\Hands.K3Cloud\Hands.K3Cloud\Hands.K3.SCM.APP.DynamicFormPlugIn\obj\Debug\Hands.K3.SCM.APP.DynamicFormPlugIn.pdb

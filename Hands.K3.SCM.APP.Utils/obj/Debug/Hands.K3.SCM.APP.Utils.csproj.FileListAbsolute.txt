@@ -1,0 +1,19 @@
+H:\Program Files (x86)\Kingdee\K3Cloud\WebSite\bin\Hands.K3.SCM.APP.Utils.dll
+H:\Program Files (x86)\Kingdee\K3Cloud\WebSite\bin\Hands.K3.SCM.APP.Utils.pdb
+G:\Users\Administrator\Source\Workspaces\Hands.K3Cloud\Hands.K3Cloud\Hands.K3.SCM.APP.Utils\obj\Debug\Hands.K3.SCM.APP.Utils.csprojAssemblyReference.cache
+G:\Users\Administrator\Source\Workspaces\Hands.K3Cloud\Hands.K3Cloud\Hands.K3.SCM.APP.Utils\obj\Debug\Hands.K3.SCM.APP.Utils.csproj.CoreCompileInputs.cache
+G:\Users\Administrator\Source\Workspaces\Hands.K3Cloud\Hands.K3Cloud\Hands.K3.SCM.APP.Utils\obj\Debug\Hands.K3.SCM.APP.Utils.csproj.CopyComplete
+G:\Users\Administrator\Source\Workspaces\Hands.K3Cloud\Hands.K3Cloud\Hands.K3.SCM.APP.Utils\obj\Debug\Hands.K3.SCM.APP.Utils.dll
+G:\Users\Administrator\Source\Workspaces\Hands.K3Cloud\Hands.K3Cloud\Hands.K3.SCM.APP.Utils\obj\Debug\Hands.K3.SCM.APP.Utils.pdb
+D:\handsProjects\Hands.K3Cloud\Hands.K3Cloud\Hands.K3.SCM.APP.Utils\obj\Debug\Hands.K3.SCM.APP.Utils.csprojAssemblyReference.cache
+D:\handsProjects\Hands.K3Cloud\Hands.K3Cloud\Hands.K3.SCM.APP.Utils\obj\Debug\Hands.K3.SCM.APP.Utils.csproj.CoreCompileInputs.cache
+D:\handsProjects\Hands.K3Cloud\Hands.K3Cloud\Hands.K3.SCM.APP.Utils\obj\Debug\Hands.K3.SCM.APP.Utils.dll
+D:\handsProjects\Hands.K3Cloud\Hands.K3Cloud\Hands.K3.SCM.APP.Utils\obj\Debug\Hands.K3.SCM.APP.Utils.pdb
+D:\handsProjects\Hands.K3Cloud\Hands.K3Cloud\Hands.K3.SCM.APP.Utils\obj\Debug\Hands.K3.SCM.APP.Utils.csproj.CopyComplete
+D:\Program Files (x86)\Kingdee\K3Cloud\WebSite\bin\Hands.K3.SCM.APP.Utils.dll
+D:\Program Files (x86)\Kingdee\K3Cloud\WebSite\bin\Hands.K3.SCM.APP.Utils.pdb
+D:\Hands.K3Cloud\Hands.K3Cloud\Hands.K3.SCM.APP.Utils\obj\Debug\Hands.K3.SCM.APP.Utils.csprojAssemblyReference.cache
+D:\Hands.K3Cloud\Hands.K3Cloud\Hands.K3.SCM.APP.Utils\obj\Debug\Hands.K3.SCM.APP.Utils.csproj.CoreCompileInputs.cache
+D:\Hands.K3Cloud\Hands.K3Cloud\Hands.K3.SCM.APP.Utils\obj\Debug\Hands.K3.SCM.APP.Utils.csproj.CopyComplete
+D:\Hands.K3Cloud\Hands.K3Cloud\Hands.K3.SCM.APP.Utils\obj\Debug\Hands.K3.SCM.APP.Utils.dll
+D:\Hands.K3Cloud\Hands.K3Cloud\Hands.K3.SCM.APP.Utils\obj\Debug\Hands.K3.SCM.APP.Utils.pdb

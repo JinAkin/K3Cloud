@@ -1,0 +1,16 @@
+G:\Users\Administrator\Source\Workspaces\Hands.K3Cloud\Hands.K3Cloud\Hands.K3.SCM.App.ServicePlugIn\obj\Debug\Hands.K3.SCM.App.ServicePlugIn.csproj.CoreCompileInputs.cache
+H:\Program Files (x86)\Kingdee\K3Cloud\WebSite\bin\Hands.K3.SCM.App.ServicePlugIn.dll
+H:\Program Files (x86)\Kingdee\K3Cloud\WebSite\bin\Hands.K3.SCM.App.ServicePlugIn.pdb
+G:\Users\Administrator\Source\Workspaces\Hands.K3Cloud\Hands.K3Cloud\Hands.K3.SCM.App.ServicePlugIn\obj\Debug\Hands.K3.SCM.App.ServicePlugIn.csproj.CopyComplete
+G:\Users\Administrator\Source\Workspaces\Hands.K3Cloud\Hands.K3Cloud\Hands.K3.SCM.App.ServicePlugIn\obj\Debug\Hands.K3.SCM.App.ServicePlugIn.dll
+G:\Users\Administrator\Source\Workspaces\Hands.K3Cloud\Hands.K3Cloud\Hands.K3.SCM.App.ServicePlugIn\obj\Debug\Hands.K3.SCM.App.ServicePlugIn.pdb
+D:\handsProjects\Hands.K3Cloud\Hands.K3Cloud\Hands.K3.SCM.App.ServicePlugIn\obj\Debug\Hands.K3.SCM.App.ServicePlugIn.csproj.CoreCompileInputs.cache
+D:\handsProjects\Hands.K3Cloud\Hands.K3Cloud\Hands.K3.SCM.App.ServicePlugIn\obj\Debug\Hands.K3.SCM.App.ServicePlugIn.dll
+D:\handsProjects\Hands.K3Cloud\Hands.K3Cloud\Hands.K3.SCM.App.ServicePlugIn\obj\Debug\Hands.K3.SCM.App.ServicePlugIn.pdb
+D:\handsProjects\Hands.K3Cloud\Hands.K3Cloud\Hands.K3.SCM.App.ServicePlugIn\obj\Debug\Hands.K3.SCM.App.ServicePlugIn.csproj.CopyComplete
+D:\Program Files (x86)\Kingdee\K3Cloud\WebSite\bin\Hands.K3.SCM.App.ServicePlugIn.dll
+D:\Program Files (x86)\Kingdee\K3Cloud\WebSite\bin\Hands.K3.SCM.App.ServicePlugIn.pdb
+D:\Hands.K3Cloud\Hands.K3Cloud\Hands.K3.SCM.App.ServicePlugIn\obj\Debug\Hands.K3.SCM.App.ServicePlugIn.csproj.CoreCompileInputs.cache
+D:\Hands.K3Cloud\Hands.K3Cloud\Hands.K3.SCM.App.ServicePlugIn\obj\Debug\Hands.K3.SCM.App.ServicePlugIn.csproj.CopyComplete
+D:\Hands.K3Cloud\Hands.K3Cloud\Hands.K3.SCM.App.ServicePlugIn\obj\Debug\Hands.K3.SCM.App.ServicePlugIn.dll
+D:\Hands.K3Cloud\Hands.K3Cloud\Hands.K3.SCM.App.ServicePlugIn\obj\Debug\Hands.K3.SCM.App.ServicePlugIn.pdb

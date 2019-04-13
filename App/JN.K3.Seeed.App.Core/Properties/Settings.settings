@@ -1,0 +1,51 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Hands.K3.SCM.App.Core.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="JN_K3_Hans_App_Core_JLCWebService_CustomerOpenService" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">http://test.sz-jlc.com/xfire/CustomerOpenService</Value>
+    </Setting>
+    <Setting Name="JN_K3_Hans_App_Core_FourPXWebService_OrderOnlineServiceImplService" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">http://api.4px.com:8058/OrderOnline/ws/OrderOnlineService.dll</Value>
+    </Setting>
+    <Setting Name="JN_K3_Hans_App_Core_PLMDrawingWebService_DrawingService" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">http://stu-plm.com:80/Windchill/servlet/DrawingService</Value>
+    </Setting>
+    <Setting Name="JN_K3_Hans_App_Core_BHOrderWebService_ServiceForOrder" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">http://exoms.globex.cn/default/order-soap/web-service</Value>
+    </Setting>
+    <Setting Name="JN_K3_Hans_App_Core_BHProductService_ServiceForProduct" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">http://exoms.globex.cn/default/product-soap/web-service</Value>
+    </Setting>
+    <Setting Name="JN_K3_Hans_App_Core_UpdatePLMECNStatus_ECNService" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">http://plm.Hansstudio.com.cn/Windchill/servlet/ECNService</Value>
+    </Setting>
+    <Setting Name="JN_K3_Hans_App_Core_JLCWebService_zs_CustomerOpenService" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">http://dx.sz-jlc.com/xfire/CustomerOpenService</Value>
+    </Setting>
+    <Setting Name="JN_K3_Hans_App_Core_UpdatePlmSkuStatus_IESoapServlet" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">http://plm.Hansstudio.com.cn/Windchill/servlet/RPC</Value>
+    </Setting>
+    <Setting Name="JN_K3_Hans_App_Core_BHProductWebService_ServiceForProduct" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">http://exoms.globex.cn/default/product-soap/web-service</Value>
+    </Setting>
+    <Setting Name="JN_K3_Seeed_App_Core_BHOrderWebService_ServiceForOrder" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">http://exoms.globex.cn/default/order-soap/web-service</Value>
+    </Setting>
+    <Setting Name="JN_K3_Seeed_App_Core_BHProductWebService_ServiceForProduct" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">http://exoms.globex.cn/default/product-soap/web-service</Value>
+    </Setting>
+    <Setting Name="JN_K3_Seeed_App_Core_FourPXWebService_OrderOnlineServiceImplService" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">http://api.4px.com:8058/OrderOnline/ws/OrderOnlineService.dll</Value>
+    </Setting>
+    <Setting Name="JN_K3_Seeed_App_Core_JLCWebService_CustomerOpenService" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">http://test.sz-jlc.com/xfire/CustomerOpenService</Value>
+    </Setting>
+    <Setting Name="JN_K3_Seeed_App_Core_UpdatePLMECNStatus_ECNService" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">http://192.168.1.36:80/Windchill/servlet/ECNService</Value>
+    </Setting>
+    <Setting Name="JN_K3_Seeed_App_Core_UpdatePlmSkuStatus_IESoapServlet" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">http://stu-plm.com/Windchill/servlet/RPC</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

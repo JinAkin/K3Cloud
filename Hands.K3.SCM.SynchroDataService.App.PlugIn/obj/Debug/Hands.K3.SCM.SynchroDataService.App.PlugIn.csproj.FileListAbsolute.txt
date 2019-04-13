@@ -1,0 +1,7 @@
+H:\Program Files (x86)\Kingdee\K3Cloud\WebSite\bin\Hands.K3.SCM.SynchroDataService.App.PlugIn.dll
+H:\Program Files (x86)\Kingdee\K3Cloud\WebSite\bin\Hands.K3.SCM.SynchroDataService.App.PlugIn.pdb
+G:\Users\Administrator\Source\Workspaces\Hands.K3Cloud\Hands.K3Cloud\Hands.K3.SCM.SynchroDataService.App.PlugIn\obj\Debug\Hands.K3.SCM.SynchroDataService.App.PlugIn.csprojAssemblyReference.cache
+G:\Users\Administrator\Source\Workspaces\Hands.K3Cloud\Hands.K3Cloud\Hands.K3.SCM.SynchroDataService.App.PlugIn\obj\Debug\Hands.K3.SCM.SynchroDataService.App.PlugIn.csproj.CoreCompileInputs.cache
+G:\Users\Administrator\Source\Workspaces\Hands.K3Cloud\Hands.K3Cloud\Hands.K3.SCM.SynchroDataService.App.PlugIn\obj\Debug\Hands.K3.SCM.SynchroDataService.App.PlugIn.csproj.CopyComplete
+G:\Users\Administrator\Source\Workspaces\Hands.K3Cloud\Hands.K3Cloud\Hands.K3.SCM.SynchroDataService.App.PlugIn\obj\Debug\Hands.K3.SCM.SynchroDataService.App.PlugIn.dll
+G:\Users\Administrator\Source\Workspaces\Hands.K3Cloud\Hands.K3Cloud\Hands.K3.SCM.SynchroDataService.App.PlugIn\obj\Debug\Hands.K3.SCM.SynchroDataService.App.PlugIn.pdb

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<definitions xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:stk="http://schemas.microsoft.com/soap-toolkit/wsdl-extension" xmlns:wc="http://www.ptc.com/infoengine/soap/rpc/message/" xmlns:mime="http://schemas.xmlsoap.org/wsdl/mime/" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:xsd="http://www.w3.org/2001/XMLSchema" name="IESoap" targetNamespace="http://www.ptc.com/infoengine/soap/rpc/message/" xmlns="http://schemas.xmlsoap.org/wsdl/">
+  <types>
+    <xsd:schema xmlns="http://www.w3.org/2001/XMLSchema" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/" targetNamespace="http://www.ptc.com/infoengine/soap/rpc/message/" version="1.0" />
+  </types>
+  <message name="IEResponse">
+    <part name="Collection" type="xsd:string" />
+  </message>
+  <message name="setWTPartlifecycleRequestMsg">
+    <part name="partNumber" type="xsd:string" />
+  </message>
+  <portType name="IEService">
+    <operation name="setWTPartlifecycle">
+      <documentation>this task takes two integers and adds them together....</documentation>
+      <input message="wc:setWTPartlifecycleRequestMsg" />
+      <output message="wc:IEResponse" />
+    </operation>
+  </portType>
+  <binding name="SoapBinding" type="wc:IEService">
+    <stk:binding preferredEncoding="" />
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" style="rpc" />
+    <operation name="setWTPartlifecycle">
+      <soap:operation soapAction="urn:ie-soap-rpc:ext.cust!setWTPartlifecycle" />
+      <input>
+        <soap:body use="encoded" namespace="http://www.ptc.com/infoengine/soap/rpc/message/" encodingStyle="http://schemas.xmlsoap.org/soap/encoding/" />
+      </input>
+      <output>
+        <soap:body use="encoded" namespace="http://www.ptc.com/infoengine/soap/rpc/message/" encodingStyle="http://schemas.xmlsoap.org/soap/encoding/" />
+      </output>
+    </operation>
+  </binding>
+  <service name="IESoapServlet">
+    <port name="IESoapPort" binding="wc:SoapBinding">
+      <soap:address location="http://stu-plm.com/Windchill/servlet/RPC" />
+    </port>
+  </service>
+</definitions>
